@@ -25,7 +25,7 @@ Backend RESTful API untuk mengelola layanan pengajuan kalibrasi dan pengujian pe
 | `GET` | `/api/requests` | Mengambil daftar pengajuan user | Yes (Bearer Token) |
 
 ## 📦 Cara Menjalankan Proyek
-1. Clone repositori ini: `git clone <LINK_REPO>`
+1. Clone repositori ini: `git clone https://github.com/umarkhairurr/laboratory-calibration-api`
 2. Install dependensi: `npm install`
 3. Buat file `.env` dan sesuaikan nilainya:
    ```env
