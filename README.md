@@ -32,5 +32,5 @@ Backend RESTful API untuk mengelola layanan pengajuan kalibrasi dan pengujian pe
    PORT=5000
    DATABASE_URL=your_postgresql_connection_string
    JWT_SECRET=your_jwt_secret_key
-4. Jalankan inisialisasi tabel: node initDb.js
-5. Jalankan server: npm run dev   
+4. Jalankan inisialisasi tabel: `node initDb.js`
+5. Jalankan server: `npm run dev`  
